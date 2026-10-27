@@ -15,6 +15,7 @@ body {
 
 #page  {
     box-sizing: border-box;
+    width: 100%;
     max-width: 800px;
     padding: 24px;
     background-color: #F0E8C2;
@@ -22,8 +23,9 @@ body {
     margin: 48px auto 28px;
 }
 
-img{
+#page img{
     max-height: 400px;
+    width: 100%;
     border-radius: 16px;
 }
 
